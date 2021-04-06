@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="/"/>
-  <updated>2021-04-06T03:20:58.103Z</updated>
+  <updated>2021-04-06T07:51:27.410Z</updated>
   <id>/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Mine-imator</title>
+    <link href="/2020/04/06/Mine-imator/"/>
+    <id>/2020/04/06/Mine-imator/</id>
+    <published>2020-04-06T05:51:00.000Z</published>
+    <updated>2021-04-06T07:51:27.410Z</updated>
+    
+    <summary type="html">
+    
+      Mine-imator交流
+    
+    </summary>
+    
+      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="web" scheme="/tags/web/"/>
+    
+      <category term="悦读" scheme="/tags/%E6%82%A6%E8%AF%BB/"/>
+    
+  </entry>
   
   <entry>
     <title>Hexo-Theme-Sakura</title>
